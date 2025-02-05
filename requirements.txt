@@ -7,6 +7,11 @@ scipy
 scikit-image
 kornia
 einops
+streamlit
+flask
+flask-cors
+requests
+pillow
 
 tqdm
 prettytable
